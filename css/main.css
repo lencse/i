@@ -35,8 +35,13 @@ p {
     margin: 0;
 }
 
+#image {
+    line-height: 0;
+}
+
 p img {
     border: 2px solid #FFFFFF;
+    width: 75%;
 }
 
 #main {
