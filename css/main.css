@@ -14,8 +14,8 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis|Source+Sans+Pro:200&display=swap');
 
 html {
-  background: #5803AD;
-  color: #BDF9DF;
+  background: #00247D;
+  color: #FFFFFF;
   font-size: 1em;
   font-family: 'Dosis', sans-serif;
   line-height: 1.4;
@@ -33,6 +33,10 @@ p {
     text-transform: uppercase;
     font-weight: bold;
     margin: 0;
+}
+
+p img {
+    border: 2px solid #FFFFFF;
 }
 
 #main {
